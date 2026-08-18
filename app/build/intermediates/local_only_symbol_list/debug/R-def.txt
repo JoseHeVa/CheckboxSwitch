@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color white
+id btnIngresar
+id cbComunicaciones
+id cbTerminos
+id etPassword
+id etUsuario
+id switchRecordar
+id tvTitulo
+layout activity_main
+string app_name
+style AppTheme

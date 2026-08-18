@@ -1,0 +1,34 @@
+com.example.checkboxswitch.app-lifecycle-viewmodel-2.6.1-0 C:\Users\compa\.gradle\caches\transforms-3\19323dfc904ea06fc5d7d3b5cdfc7d8a\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.checkboxswitch.app-constraintlayout-2.0.1-1 C:\Users\compa\.gradle\caches\transforms-3\237d805e0e49eae7f22d49278d723dd0\transformed\constraintlayout-2.0.1\res
+com.example.checkboxswitch.app-fragment-1.3.6-2 C:\Users\compa\.gradle\caches\transforms-3\25f1976fac28d0f873be76bdc2287de9\transformed\fragment-1.3.6\res
+com.example.checkboxswitch.app-core-runtime-2.2.0-3 C:\Users\compa\.gradle\caches\transforms-3\2a8e93bf58de63366d10733b990e55e0\transformed\core-runtime-2.2.0\res
+com.example.checkboxswitch.app-transition-1.2.0-4 C:\Users\compa\.gradle\caches\transforms-3\378b09b3150264af85b3c0d78449e14f\transformed\transition-1.2.0\res
+com.example.checkboxswitch.app-jetified-emoji2-1.2.0-5 C:\Users\compa\.gradle\caches\transforms-3\3a4607f18e3d0fc1b7044e1b18b6baaf\transformed\jetified-emoji2-1.2.0\res
+com.example.checkboxswitch.app-jetified-appcompat-resources-1.6.1-6 C:\Users\compa\.gradle\caches\transforms-3\409bf4e449c8c39766db6facbcaee7cd\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.checkboxswitch.app-appcompat-1.6.1-7 C:\Users\compa\.gradle\caches\transforms-3\483e5f2a6243aac7190e0623d19f2de2\transformed\appcompat-1.6.1\res
+com.example.checkboxswitch.app-coordinatorlayout-1.1.0-8 C:\Users\compa\.gradle\caches\transforms-3\69874b03a8d9e20770774ac1d9805897\transformed\coordinatorlayout-1.1.0\res
+com.example.checkboxswitch.app-lifecycle-livedata-core-2.6.1-9 C:\Users\compa\.gradle\caches\transforms-3\76fb05e20af33ad817df8c2a2a00b1cb\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.checkboxswitch.app-lifecycle-livedata-2.6.1-10 C:\Users\compa\.gradle\caches\transforms-3\83b345830821c56d3cbcb46d890cb41a\transformed\lifecycle-livedata-2.6.1\res
+com.example.checkboxswitch.app-jetified-annotation-experimental-1.3.0-11 C:\Users\compa\.gradle\caches\transforms-3\92287c55299cb7aada84a20e780d9cb0\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.checkboxswitch.app-jetified-startup-runtime-1.1.1-12 C:\Users\compa\.gradle\caches\transforms-3\9b074f153a6d3c8b9cf338c45e61548a\transformed\jetified-startup-runtime-1.1.1\res
+com.example.checkboxswitch.app-jetified-activity-1.8.0-13 C:\Users\compa\.gradle\caches\transforms-3\abda878517fb680ea241b814e226c9af\transformed\jetified-activity-1.8.0\res
+com.example.checkboxswitch.app-material-1.11.0-14 C:\Users\compa\.gradle\caches\transforms-3\bd45a1c32da3781353d9453def228225\transformed\material-1.11.0\res
+com.example.checkboxswitch.app-drawerlayout-1.1.1-15 C:\Users\compa\.gradle\caches\transforms-3\bdfef9d2cc0d518318d3b9d731fe3179\transformed\drawerlayout-1.1.1\res
+com.example.checkboxswitch.app-jetified-savedstate-1.2.1-16 C:\Users\compa\.gradle\caches\transforms-3\beb2b6bfe201fddf0a32f75830574105\transformed\jetified-savedstate-1.2.1\res
+com.example.checkboxswitch.app-jetified-profileinstaller-1.3.0-17 C:\Users\compa\.gradle\caches\transforms-3\c13930916ad794be1799cc940d00b8a6\transformed\jetified-profileinstaller-1.3.0\res
+com.example.checkboxswitch.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-18 C:\Users\compa\.gradle\caches\transforms-3\c4474c40dd12eba363db07df58866a9d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.checkboxswitch.app-cardview-1.0.0-19 C:\Users\compa\.gradle\caches\transforms-3\cecbc99be1c077ad3ebd624bd6380a4a\transformed\cardview-1.0.0\res
+com.example.checkboxswitch.app-recyclerview-1.1.0-20 C:\Users\compa\.gradle\caches\transforms-3\d3b9b88a7728f436cfd4f2df37589424\transformed\recyclerview-1.1.0\res
+com.example.checkboxswitch.app-lifecycle-runtime-2.6.1-21 C:\Users\compa\.gradle\caches\transforms-3\dbf53ae62202fce0089ffba77df10d19\transformed\lifecycle-runtime-2.6.1\res
+com.example.checkboxswitch.app-jetified-viewpager2-1.0.0-22 C:\Users\compa\.gradle\caches\transforms-3\debca8699bb81c6dc226a0a17ea64090\transformed\jetified-viewpager2-1.0.0\res
+com.example.checkboxswitch.app-jetified-lifecycle-process-2.6.1-23 C:\Users\compa\.gradle\caches\transforms-3\e8bd50f4fdbf83efbb926ce8fb568220\transformed\jetified-lifecycle-process-2.6.1\res
+com.example.checkboxswitch.app-jetified-core-ktx-1.12.0-24 C:\Users\compa\.gradle\caches\transforms-3\fda9b8e56eb6f0d3b7e9bf7392fa05b8\transformed\jetified-core-ktx-1.12.0\res
+com.example.checkboxswitch.app-jetified-emoji2-views-helper-1.2.0-25 C:\Users\compa\.gradle\caches\transforms-3\fe2f2a54c3c266d5ac5a56646e64f650\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.checkboxswitch.app-core-1.12.0-26 C:\Users\compa\.gradle\caches\transforms-3\ffcf09bf8e38693d77e6db9632c3d1a3\transformed\core-1.12.0\res
+com.example.checkboxswitch.app-pngs-27 C:\Users\compa\Downloads\android_10_proyectos_ejecutables\N1 Formulario\app\build\generated\res\pngs\debug
+com.example.checkboxswitch.app-resValues-28 C:\Users\compa\Downloads\android_10_proyectos_ejecutables\N1 Formulario\app\build\generated\res\resValues\debug
+com.example.checkboxswitch.app-packageDebugResources-29 C:\Users\compa\Downloads\android_10_proyectos_ejecutables\N1 Formulario\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.checkboxswitch.app-packageDebugResources-30 C:\Users\compa\Downloads\android_10_proyectos_ejecutables\N1 Formulario\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.checkboxswitch.app-merged_res-31 C:\Users\compa\Downloads\android_10_proyectos_ejecutables\N1 Formulario\app\build\intermediates\merged_res\debug
+com.example.checkboxswitch.app-debug-32 C:\Users\compa\Downloads\android_10_proyectos_ejecutables\N1 Formulario\app\src\debug\res
+com.example.checkboxswitch.app-main-33 C:\Users\compa\Downloads\android_10_proyectos_ejecutables\N1 Formulario\app\src\main\res
